@@ -182,12 +182,6 @@ Enable via `task_type: 'GPU'` in `config.yml` for 3-5x speedup
   - Handles datasets > 1M records
   - Supports distributed processing
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 > "Predicting risk today prevents financial crises tomorrow" - Project
+
